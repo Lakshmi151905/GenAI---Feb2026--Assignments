@@ -1,0 +1,1 @@
+Adding a video that displays a User story to test cases converter where Jira is connected, user stories are fetched from Jira, upon end user selecting the user story, the details such as title, description, Acceptance criteria are populated in UI, and when Genarate test cases button is clicked, the test cases are generated.
